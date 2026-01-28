@@ -22,6 +22,7 @@ Damit die Engine reibungslos läuft, müssen folgende Tools auf deinem Windows-S
 ## Installation & Start
 Der Setup-Prozess wurde automatisiert:
 
+0. **Download [Hier herunterladen](https://github.com/pdennishx/AI-Generated-AI-Reddit-gen/tree/main/export)
 1. **Installation:** Doppelklick auf die `install.bat`. Dies erstellt eine virtuelle Umgebung und installiert alle benötigten Python-Bibliotheken (inkl. Torch für GPU-Beschleunigung).
 2. **Starten:** Doppelklick auf die `start.bat`. Das Interface öffnet sich direkt und ist einsatzbereit.
 
