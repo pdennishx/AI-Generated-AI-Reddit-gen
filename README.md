@@ -39,7 +39,9 @@ Um das Skript auszuführen, müssen die folgenden Pakete installiert sein. Kopie
 pip install moviepy customtkinter Pillow ollama edge-tts openai-whisper torch torchvision matplotlib
 ```
 ---
-**© 2026 ich<3dennis, YetBoy Anwaltskanzlei**
+
+<details> 
+  <summary> © 2026 ich<3dennis, YetBoy Anwaltskanzlei </summary>
 ░░  ▒▒▓▓▒▒▒▒░░▒▒    ░░▒▒▓▓▒▒▒▒░░▒▒      ░░░░    ░░░░▒▒                ░░  ░░  ░░      ▒▒▒▒▓▓              ░░      ▒▒░░░░░░                                              
 ░░  ▒▒▓▓▒▒▒▒░░▒▒    ░░▒▒▓▓▒▒▒▒░░▒▒      ░░░░░░░░░░░░▒▒                  ▒▒  ░░        ▒▒▒▒▓▓                      ░░░░░░░░                                              
 ░░░░░░▓▓▒▒▒▒░░▒▒    ░░▒▒▓▓▒▒▒▒▒▒░░░░        ░░░░░░░░▒▒                    ░░░░        ▒▒▒▒▒▒▒▒                      ░░░░░░                                              
@@ -106,3 +108,5 @@ pip install moviepy customtkinter Pillow ollama edge-tts openai-whisper torch to
 ░░░░▒▒░░▒▒▒▒████▓▓▓▓▓▓▓▓▓▓████▓▓▓▓▓▓▓▓▓▓▓▓░░░░▓▓▓▓▓▓████████▓▓  ██▒▒████████████████████▒▒░░██▓▓    ░░░░░░░░      ░░                                        ░░░░        
 ░░░░▒▒░░▒▒▓▓██▓▓▓▓▓▓▓▓▓▓▒▒██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██████████████████  ░░██▓▓▒▒▓▓████████████▒▒░░    ▒▒▓▓▒▒    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                  ░░░░░░        
 ▒▒▒▒░░░░▓▓▓▓██▓▓▓▓▓▓▓▓▓▓▒▒████▓▓▓▓▓▓▓▓▓▓▓▓████████████████░░  ██████▓▓████████▓▓▒▒░░░░      ░░██░░▒▒      ░░      ░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒                ░░░░░░          
+
+</details>
